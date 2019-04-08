@@ -8,6 +8,6 @@
 ![U.S. Population and Elderly Population Rates](FinalElderly.jpg)
 ![U.S. Race and Population](Chartmapfinal.jpg)
 ![Livingston County, NY, Population Density](FinalDotDensity-02-02.jpg)
-!["Access" to Wegmans](State_Totals.tif)
+!["Access" to Wegmans](State_Totals2.jpg)
 
 
